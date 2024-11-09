@@ -17,47 +17,47 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CollegeInsight1
 build_property.RootNamespace = CollegeInsight1
-build_property.ProjectDir = D:\BatchNo21\2022\CollegeInsight1\CollegeInsight1\
+build_property.ProjectDir = G:\MyProject_Feedback_System\ProjectGroup\CollegeInsight1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\BatchNo21\2022\CollegeInsight1\CollegeInsight1
+build_property.MSBuildProjectDirectory = G:\MyProject_Feedback_System\ProjectGroup\CollegeInsight1
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/BatchNo21/2022/CollegeInsight1/CollegeInsight1/Views/Home/Index.cshtml]
+[G:/MyProject_Feedback_System/ProjectGroup/CollegeInsight1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BatchNo21/2022/CollegeInsight1/CollegeInsight1/Views/Home/Privacy.cshtml]
+[G:/MyProject_Feedback_System/ProjectGroup/CollegeInsight1/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BatchNo21/2022/CollegeInsight1/CollegeInsight1/Views/Shared/Error.cshtml]
+[G:/MyProject_Feedback_System/ProjectGroup/CollegeInsight1/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BatchNo21/2022/CollegeInsight1/CollegeInsight1/Views/Shared/_MainLayout.cshtml]
+[G:/MyProject_Feedback_System/ProjectGroup/CollegeInsight1/Views/Shared/_MainLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYWluTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BatchNo21/2022/CollegeInsight1/CollegeInsight1/Views/Shared/_studentDashboard.cshtml]
+[G:/MyProject_Feedback_System/ProjectGroup/CollegeInsight1/Views/Shared/_studentDashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9zdHVkZW50RGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BatchNo21/2022/CollegeInsight1/CollegeInsight1/Views/Shared/_ValidationScriptsPartial.cshtml]
+[G:/MyProject_Feedback_System/ProjectGroup/CollegeInsight1/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BatchNo21/2022/CollegeInsight1/CollegeInsight1/Views/User/Create.cshtml]
+[G:/MyProject_Feedback_System/ProjectGroup/CollegeInsight1/Views/User/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BatchNo21/2022/CollegeInsight1/CollegeInsight1/Views/_ViewImports.cshtml]
+[G:/MyProject_Feedback_System/ProjectGroup/CollegeInsight1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BatchNo21/2022/CollegeInsight1/CollegeInsight1/Views/_ViewStart.cshtml]
+[G:/MyProject_Feedback_System/ProjectGroup/CollegeInsight1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

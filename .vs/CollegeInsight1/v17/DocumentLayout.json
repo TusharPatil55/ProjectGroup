@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BatchNo21\\2022\\CollegeInsight1\\",
+  "WorkspaceRootPath": "G:\\MyProject_Feedback_System\\ProjectGroup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{941A061E-71D1-47B0-8FFD-490EA0626D2B}|CollegeInsight1\\CollegeInsight1.csproj|d:\\batchno21\\2022\\collegeinsight1\\collegeinsight1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{941A061E-71D1-47B0-8FFD-490EA0626D2B}|CollegeInsight1\\CollegeInsight1.csproj|g:\\myproject_feedback_system\\projectgroup\\collegeinsight1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{941A061E-71D1-47B0-8FFD-490EA0626D2B}|CollegeInsight1\\CollegeInsight1.csproj|solutionrelative:collegeinsight1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{941A061E-71D1-47B0-8FFD-490EA0626D2B}|CollegeInsight1\\CollegeInsight1.csproj|d:\\batchno21\\2022\\collegeinsight1\\collegeinsight1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{941A061E-71D1-47B0-8FFD-490EA0626D2B}|CollegeInsight1\\CollegeInsight1.csproj|g:\\myproject_feedback_system\\projectgroup\\collegeinsight1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{941A061E-71D1-47B0-8FFD-490EA0626D2B}|CollegeInsight1\\CollegeInsight1.csproj|solutionrelative:collegeinsight1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{941A061E-71D1-47B0-8FFD-490EA0626D2B}|CollegeInsight1\\CollegeInsight1.csproj|d:\\batchno21\\2022\\collegeinsight1\\collegeinsight1\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{941A061E-71D1-47B0-8FFD-490EA0626D2B}|CollegeInsight1\\CollegeInsight1.csproj|g:\\myproject_feedback_system\\projectgroup\\collegeinsight1\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{941A061E-71D1-47B0-8FFD-490EA0626D2B}|CollegeInsight1\\CollegeInsight1.csproj|solutionrelative:collegeinsight1\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{941A061E-71D1-47B0-8FFD-490EA0626D2B}|CollegeInsight1\\CollegeInsight1.csproj|d:\\batchno21\\2022\\collegeinsight1\\collegeinsight1\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{941A061E-71D1-47B0-8FFD-490EA0626D2B}|CollegeInsight1\\CollegeInsight1.csproj|g:\\myproject_feedback_system\\projectgroup\\collegeinsight1\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{941A061E-71D1-47B0-8FFD-490EA0626D2B}|CollegeInsight1\\CollegeInsight1.csproj|solutionrelative:collegeinsight1\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{941A061E-71D1-47B0-8FFD-490EA0626D2B}|CollegeInsight1\\CollegeInsight1.csproj|d:\\batchno21\\2022\\collegeinsight1\\collegeinsight1\\models\\userregvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{941A061E-71D1-47B0-8FFD-490EA0626D2B}|CollegeInsight1\\CollegeInsight1.csproj|g:\\myproject_feedback_system\\projectgroup\\collegeinsight1\\models\\userregvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{941A061E-71D1-47B0-8FFD-490EA0626D2B}|CollegeInsight1\\CollegeInsight1.csproj|solutionrelative:collegeinsight1\\models\\userregvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,50 +36,47 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "site.css",
-              "DocumentMoniker": "D:\\BatchNo21\\2022\\CollegeInsight1\\CollegeInsight1\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "G:\\MyProject_Feedback_System\\ProjectGroup\\CollegeInsight1\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "CollegeInsight1\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\BatchNo21\\2022\\CollegeInsight1\\CollegeInsight1\\wwwroot\\css\\site.css",
+              "ToolTip": "G:\\MyProject_Feedback_System\\ProjectGroup\\CollegeInsight1\\wwwroot\\css\\site.css",
               "RelativeToolTip": "CollegeInsight1\\wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-31T11:53:26.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T11:53:26.173Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "userRegVM.cs",
-              "DocumentMoniker": "D:\\BatchNo21\\2022\\CollegeInsight1\\CollegeInsight1\\Models\\userRegVM.cs",
+              "DocumentMoniker": "G:\\MyProject_Feedback_System\\ProjectGroup\\CollegeInsight1\\Models\\userRegVM.cs",
               "RelativeDocumentMoniker": "CollegeInsight1\\Models\\userRegVM.cs",
-              "ToolTip": "D:\\BatchNo21\\2022\\CollegeInsight1\\CollegeInsight1\\Models\\userRegVM.cs",
+              "ToolTip": "G:\\MyProject_Feedback_System\\ProjectGroup\\CollegeInsight1\\Models\\userRegVM.cs",
               "RelativeToolTip": "CollegeInsight1\\Models\\userRegVM.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAABwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T10:48:35.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T10:48:35.063Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "_MainLayout.cshtml",
-              "DocumentMoniker": "D:\\BatchNo21\\2022\\CollegeInsight1\\CollegeInsight1\\Views\\Shared\\_MainLayout.cshtml",
+              "DocumentMoniker": "G:\\MyProject_Feedback_System\\ProjectGroup\\CollegeInsight1\\Views\\Shared\\_MainLayout.cshtml",
               "RelativeDocumentMoniker": "CollegeInsight1\\Views\\Shared\\_MainLayout.cshtml",
-              "ToolTip": "D:\\BatchNo21\\2022\\CollegeInsight1\\CollegeInsight1\\Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "G:\\MyProject_Feedback_System\\ProjectGroup\\CollegeInsight1\\Views\\Shared\\_MainLayout.cshtml",
               "RelativeToolTip": "CollegeInsight1\\Views\\Shared\\_MainLayout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T10:02:16.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T10:02:16.324Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\BatchNo21\\2022\\CollegeInsight1\\CollegeInsight1\\Controllers\\UserController.cs",
+              "DocumentMoniker": "G:\\MyProject_Feedback_System\\ProjectGroup\\CollegeInsight1\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "CollegeInsight1\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\BatchNo21\\2022\\CollegeInsight1\\CollegeInsight1\\Controllers\\UserController.cs",
+              "ToolTip": "G:\\MyProject_Feedback_System\\ProjectGroup\\CollegeInsight1\\Controllers\\UserController.cs",
               "RelativeToolTip": "CollegeInsight1\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBIAAAACAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwB4AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T11:00:54.785Z",
               "EditorCaption": ""
@@ -88,14 +85,13 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\BatchNo21\\2022\\CollegeInsight1\\CollegeInsight1\\Views\\User\\Create.cshtml",
+              "DocumentMoniker": "G:\\MyProject_Feedback_System\\ProjectGroup\\CollegeInsight1\\Views\\User\\Create.cshtml",
               "RelativeDocumentMoniker": "CollegeInsight1\\Views\\User\\Create.cshtml",
-              "ToolTip": "D:\\BatchNo21\\2022\\CollegeInsight1\\CollegeInsight1\\Views\\User\\Create.cshtml",
+              "ToolTip": "G:\\MyProject_Feedback_System\\ProjectGroup\\CollegeInsight1\\Views\\User\\Create.cshtml",
               "RelativeToolTip": "CollegeInsight1\\Views\\User\\Create.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAADoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T11:18:49.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T11:18:49.019Z"
             }
           ]
         }

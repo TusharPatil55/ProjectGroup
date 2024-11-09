@@ -37,6 +37,10 @@ namespace CollegeInsight1.Controllers
 				ctx.SaveChanges();
 				ViewBag.message = "Saved Succesfully..!";
 
+				ViewBag.message = "Saved Succesfully1..!";
+
+				ViewBag.message = "Saved Succesfully2..!";
+
 			}
 
 			return View();
