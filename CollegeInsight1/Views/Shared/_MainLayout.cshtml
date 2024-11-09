@@ -1,0 +1,32 @@
+﻿<html>
+
+<head>
+	<script src="/lib/jquery/dist/jquery.min.js"></script>
+	<link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="/css/site.css" />
+</head>
+
+<body>
+	<div class="container-fluid mainLayout_Back ">
+@* 		<b>Main Layout</b> *@
+
+
+		<div class="container p-5">
+			@RenderBody()
+		</div>
+
+		@* <div class="container-fluid ">
+			<div class="myFooter border w-75">
+				Footer
+			</div>
+		</div> *@
+
+	</div>
+	
+
+	
+	@RenderSection("scripts", required: false)
+</body>
+
+</html>
